@@ -1,0 +1,7 @@
+Metadata like Name,,
+Metadata like Timestamp,,
+Headers,Header1,Header2
+Entry1,"First, Second",Third
+Entry2,First,Fourth
+Entry3,Neither,Fifth
+Entry4,Second,"Fifth, Third"

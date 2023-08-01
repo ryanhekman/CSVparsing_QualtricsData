@@ -1,0 +1,13 @@
+"Do not move any columns or rows! Just enter your desired keywords, one entry per cell",
+"Under this cell, type exactly the name of the CSV file that you would like to split, including the .csv extension (example is example_data_in.csv)",
+example_data_in.csv,
+"Under this cell, type the row number (in your data file) that contains the headers you want to reference. Note that headers in the example data are in row 3.",
+3,
+"Under this cell, type exactly the name of the CSV file that you would like to generate, including the .csv extension. Do not use the same name as your input file. IF THE OUTPUT FILE ALREADY EXISTS, IT WILL BE OVERWRITTEN. (example is example_data_out.csv)",
+example_data_out.csv,
+"In the row under this cell, type the exact header names (case sensitive, one per cell) that you would like split out into separate columns",
+Header1,Header2
+"In the space below, corresponding to each above header, type out exactly which keywords (case sensitive, one per cell) you want to be split out into its own column.",
+First,Third
+Second,Fourth
+,Fifth
